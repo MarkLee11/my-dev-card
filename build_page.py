@@ -12,7 +12,7 @@ def main():
         ],
         "contact": {
             "github": "https://github.com/MarkLee11",
-            "linkedin": "www.linkedin.com/in/yuetong-li-139312363"
+            "linkedin": "https://www.linkedin.com/in/yuetong-li-139312363"
         }
     }
     # HTML模板
