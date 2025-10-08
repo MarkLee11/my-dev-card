@@ -1,17 +1,18 @@
 def main():
     # 个⼈信息配置
     personal_info = {
-        "name": "张三",
+        "name": "李越彤",
         "title": "AI Engineer",
         "description": "AI Engineer passionate about MLOps and automation.",
         "skills": ["Python", "TensorFlow", "Git", "CI/CD", "Docker"],
         "projects": [
-            {"name": "项⽬⼀", "url": "https://github.com/yourusername/project1"},
-            {"name": "项⽬⼆", "url": "https://github.com/yourusername/project2"}
+            {"name": "RAVEN", "url": "https://github.com/MarkLee11/RAVEN.git"},
+            {"name": "sky-take-out", "url": "https://github.com/MarkLee11/sky-take-out.git"},
+            {"name": "GGBang", "url": "https://github.com/MarkLee11/GGBang.git"}
         ],
         "contact": {
-            "github": "https://github.com/yourusername",
-            "linkedin": "https://linkedin.com/in/yourprofile"
+            "github": "https://github.com/MarkLee11",
+            "linkedin": "www.linkedin.com/in/yuetong-li-139312363"
         }
     }
     # HTML模板
